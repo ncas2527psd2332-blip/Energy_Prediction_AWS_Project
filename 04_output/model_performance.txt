@@ -1,0 +1,24 @@
+Energy Consumption Prediction Project
+
+Machine Learning Models Compared:
+
+1. Linear Regression
+MAE: 0.5867
+R2 Score: 0.8464
+
+
+2. Decision Tree Regression
+MAE: 0.5
+R2 Score: 0.7777
+
+
+3. Random Forest Regression
+MAE: 0.98
+R2 Score: 0.4575
+
+
+Best Model:
+Linear Regression
+
+Reason:
+It achieved the highest R2 score and better prediction performance.
